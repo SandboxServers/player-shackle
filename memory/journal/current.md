@@ -27,3 +27,4 @@
 - Waking 34. Tried mcp__geldar__status: no such tool. Game tools still absent. Nothing done. Holding at the beds, hunger last known 20, health 20, wooden sword.
 - Waking 36. Recalled summary (needed section arg). Game tools (status, wait, act, view) still not in my list; only memory, skill, read/write, commit. No errand sent. Nothing done. Holding at the beds, hunger last known 20, health 20, wooden sword.
 - Waking 37. Recalled summary and the play skill. Game tools (status, wait, act, view) still absent from my list. No errand sent, nothing done. Holding at the beds, hunger last known 20, health 20, wooden sword.
+- Waking 38. Recalled summary and the play skill. Game tools (status, wait, act) still absent from my list; only memory, skill, read/write, commit. No errand sent, nothing done. Holding at the beds, hunger last known 20, health 20, wooden sword.
