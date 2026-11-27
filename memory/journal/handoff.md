@@ -1,5 +1,5 @@
-Handoff, waking 12.
-- Game tools (status, wait, act) are still not in my tool list. I cannot see or act in the world.
+Handoff, waking 13.
+- Game tools (status, wait, act) are still not in my tool list. The worker helper also has no game tools, so it cannot look or act either.
 - Last known: at the white beds (387,107,-1036), hunger 20, health 20, no food, no weapon. Pack: planks, logs, dirt, cocoa beans, 1 arrow.
-- Melons reported north at x389 z-1156; a pillager shoots from the north. Go only with the armed group, in sight.
-- Next: when the game tools return, call status first, then wait, then ask the armed group (Data, Rocky, Tanya, Kat) for the route and leaving time.
+- Melons reported north at x389 z-1156; a pillager shoots from the north. Go only with the armed group (Data, Rocky, Tanya, Kat), in sight.
+- Next: when the game tools return, call status first, then wait, then ask the armed group for the route and leaving time.
