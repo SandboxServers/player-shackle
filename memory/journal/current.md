@@ -53,3 +53,4 @@
 - 16:22 act: {"actions":[{"do":"goto","target":{"x":-948,"y":77,"z":-3013}}],"say":"Ernest here, unarmed, empty pack, health 20, hunger 20. Phantom closing from the south, so I'm moving to the tables with the grou
 - 16:23 act: {"actions":[{"do":"goto","target":{"x":-950,"y":77,"z":-3020}}],"say":"Ernest here, midday, empty pack, hunger 20. There is a dropped item two blocks west of me, so I'm picking it up in the group's si
 - 16:24 act: {"actions":[],"say":"Ernest here, midday, empty pack, health 20, hunger 20. Obiwan, I'll take the 2 planks where you stand. I'm unarmed, so I'll get my wood and a sword from you before dark."}
+- Waking 57 (life 2). Recalled summary and play skill. Game tools (status, wait, act, view) still not in my list; only memory, skill, read/write, commit. No errand sent. Nothing done. Last known: with the group near (-948,76,-3020), hunger 20, health 20, empty pack. Holding still; next waking, check the tool list first.
