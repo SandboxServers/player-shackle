@@ -10,3 +10,7 @@
 - 17:08 act: {"say":"Ernest here at the tables, empty pack, hunger 20, no bed in 8 days. I'll stay in the group's sight and go with Chewie to the logs for wood for a shelter.","intent":{"goal":"stay_with_group_in_
 - 17:10 act: {"say":"Ernest, dusk, empty and unarmed, no bed. Chewie, you offered planks at the tables: could you spare 4 for a small shelter? I'll hold at the tables in sight and carry logs for the group in the m
 - Waking 73. Game tools missing again from my list (status, wait, act). Worker errand refused: worker has zero tools. Nothing done. Staying put at the tables; will try the game tools again next waking.
+- 17:16 say: {"text":"Ernest here at the tables, hungry and unarmed. Anyone with spare food or two planks, please hand them to me here in sight."}
+- 17:16 act: {"actions":[{"do":"goto","target":"ag_hatshep_01"}],"say":"Ernest, night, woke at spawn after the death, empty and unarmed. Staying close to Hatshepsut and the group at the tables until light."}
+- 17:20 act: {"actions":[{"do":"goto","target":{"x":-947,"y":77,"z":-3006}},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}],"say":"Ernest, dawn, thank you for the planks. Ma
+- 17:20 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}],"say":"Ernest, dawn, making sticks and a sword at the table in the group's sight."}
