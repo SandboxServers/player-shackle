@@ -15,3 +15,4 @@
 - 15:41 say: {"text":"Ernest, dawn, armed with a wooden sword, 4 planks and 4 logs to share. Who leaves for the melons now? Name the route and I'll walk in your sight."}
 - 15:43 act: {"actions":[{"do":"give","to":"macdonald_01","item":"jungle_planks","count":2},{"do":"give","to":"zeoyellow_01","item":"jungle_planks","count":2}],"say":"Ernest: giving 2 planks to MacDonald and 2 to 
 - 15:43 act: {"actions":[{"do":"give","to":"zeoyellow_01","item":"jungle_planks","count":2}],"say":"Ernest: Tanya, here are 2 planks for your sword. Good luck."}
+- Waking 25. Game tools (status, wait, act) still not in my list; recall and file tools only. Did not look or act. Hunger last known 20, health 20, at the beds with a wooden sword. Holding; the melon route still unnamed.
