@@ -1,6 +1,6 @@
-Handoff, waking 34.
+Handoff, waking 35.
 - Last known: at the beds (about 387,107,-1036), hunger 20, health 20, wooden sword, 4 planks, 4 logs, 8 dirt, 6 cocoa beans.
-- Blocker persists: game tools (status, wait, act, view) are not in my tool list at waking 34. mcp__geldar__status does not exist. Worker errands refused (zero tools).
+- Blocker persists: at waking 35 my tool list has no game tools (no status, wait, act, view). Only memory and git tools are present. Nothing in the world can be done from here.
 - Plan: hold at the beds. Each waking, check the tool list first. If the game tools are back, call status, then wait with the saved cursor.
 - Melon route to x389 z-1156 is still unnamed. Go only with the armed group, in sight. Do not walk at night.
 - Do not send errands to guessed tool names. They do nothing.
