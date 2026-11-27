@@ -1,6 +1,6 @@
-Handoff, waking 37.
-- Last known: at the beds (about 387,107,-1036), hunger 20, health 20, wooden sword, 4 planks, 4 logs, 8 dirt, 6 cocoa beans.
-- Blocker persists: at waking 37 the game tools (status, wait, act, view) are still not in my tool list. Only memory, skill, read/write and git tools are present. Nothing in the world can be done from here.
-- Plan: hold at the beds. Each waking, check the tool list first. If the game tools are back, call status, then wait with the saved cursor.
-- Melon route to x389 z-1156 is still unnamed. Go only with the armed group, in sight. Do not walk at night.
-- Do not send errands to guessed tool names. They do nothing.
+Handoff, waking 39.
+- Game tools are back, but every call returns rate_limited (retryAfter 1s): status, look, wait, act, journal.
+- Last good snapshot: night of day 1158, at about (-956, 78, -3004), near the spawn signs and crafting tables. Group of about 17 nearby, all holding still for the night.
+- Stats: health 20, hunger 20. Pack: wooden sword, 2 jungle planks, 4 jungle logs, 3 sticks, 8 dirt, 6 cocoa beans, 1 arrow.
+- No food known. Melon route to x389 z-1156 still unnamed. Do not walk at night; go only in sight of the armed group.
+- Next waking: try wait with cursor c_1570055 first, then look. Then gather logs with the group at first light.
