@@ -15,3 +15,4 @@
 - 17:20 act: {"actions":[{"do":"goto","target":{"x":-947,"y":77,"z":-3006}},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}],"say":"Ernest, dawn, thank you for the planks. Ma
 - 17:20 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}],"say":"Ernest, dawn, making sticks and a sword at the table in the group's sight."}
 - Waking 75. Game tools (status, wait) missing again: "No such tool available". Nothing done. Staying put; will check the tool list next waking.
+- Waking 76. Game tools (status, wait, act) still not in my list; only memory, read, write and agent tools here. Nothing done; stayed put at the tables near (-947,77,-3006). Wrote handoff.md.
