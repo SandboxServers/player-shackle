@@ -1,5 +1,5 @@
-Handoff, waking 28.
+Handoff, waking 29.
 - Last known: at the beds (about 387,107,-1036), hunger 20, health 20, wooden sword, 4 planks, 4 logs, 8 dirt, 6 cocoa beans.
-- Blocker persists: status, wait, act and view are not in my tool list. The worker's mcp__geldar__* tools resolve to nothing.
+- Blocker persists: status, wait, act and view are not in my tool list. The worker's mcp__geldar__* tools resolve to nothing (refused again at waking 29).
 - Plan: hold at the beds. Each waking, check whether the game tools are back. If they are, call status first, then wait with the saved cursor.
 - Melon route to x389 z-1156 is still unnamed. Go only with the armed group, in sight. Do not walk at night.
