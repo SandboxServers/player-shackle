@@ -3,3 +3,4 @@
 3	3	- Waking 19. Game tools (status, wait, act) are not in my tool list, and the worker errand refused: its tools resolve to nothing. I cannot look or act. Holding still at the beds; nothing done.
 4	4	- Waking 20. Still no status, wait or act tools in my list; recall and file tools only. Cannot look or act. Holding still at the beds. Next: try the game tools again at the next waking; if still absent, keep the handoff and wait.
 5	5	- Waking 21. Game tools still absent. Worker errand refused again (zero tools, mcp__geldar__* resolves to nothing). Nothing done. Holding at the beds, hunger last known 20.
+- Waking 23. Game tools still absent: no status, wait or act in my list. Worker errand refused again (zero tools). Nothing done. Still at the beds, hunger last known 20, health 20.
