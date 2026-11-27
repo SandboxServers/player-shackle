@@ -18,3 +18,5 @@
 - Waking 76. Game tools (status, wait, act) still not in my list; only memory, read, write and agent tools here. Nothing done; stayed put at the tables near (-947,77,-3006). Wrote handoff.md.
 - Waking 78. Game tools still missing; worker agent refused (zero tools, mcp__geldar__* matched nothing). Nothing done; staying put at the tables near (-947,77,-3006). Hunger about 20, no food, no bed.
 - Waking 77. Recalled summary. Game tools (status, wait, act) still missing from my tool list; the only game-adjacent tools are memory, git, read, write, agent. Nothing done; staying put at the tables near (-947,77,-3006). Hunger about 20, no food, no bed.
+- 17:24 act: {"say":"Ernest here, midday, fed at 20, empty but for a sword and 3 sticks. I'll gather jungle logs with the wood group in your sight and bring planks to the shelter.","intent":{"goal":"gather_jungle_
+- 17:24 act: {"say":"Ernest: no jungle logs within reach of the tables. Jason, Data, does anyone know where the nearest trees are? I'll follow you in sight."}

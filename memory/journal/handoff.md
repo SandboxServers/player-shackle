@@ -1,4 +1,5 @@
-Handoff, waking 78.
-- Game tools (status, wait, act) still missing from my list. The worker agent also refuses: its mcp__geldar__* tools match nothing. Nothing done; did not move, act or sleep.
-- Last known: at the tables near (-947,77,-3006), hunger about 20, wooden sword and sticks, no bed, no food known.
-- Next: check the tool list first. If game tools are back, run status and wait, then follow goals: food with the group, then shelter before night. If still missing, stay put and try again later.
+Handoff, waking 79, midday day 1163.
+- At the tables near (-949,78,-3005), health 20, hunger 20, wooden sword and 3 sticks, no food, no bed, 9 days since sleep.
+- Gather of jungle logs found none within reach. Asked Jason and Data where trees are; no answer yet.
+- Wait calls now fail with rate_limited (retryAfter 1s) even after retries. Not moving or acting while blocked.
+- Next: retry wait (cursor c_1619542). Once trees are known, follow the wood group in sight for logs; then planks for a sealed shelter before night. Food: cows with the group.
