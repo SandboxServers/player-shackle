@@ -8,3 +8,10 @@
 - 14:52 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1036}}]}
 - 15:02 act: {"actions":[],"say":"Ernest, dawn, at the beds, hunger 20, no weapon. Data, Rocky, Tanya, Kat: if you walk to the melons, name the route and leaving time. I'll walk in your sight."}
 - 15:06 act: {"actions":[{"do":"craft","item":"jungle_planks","count":4}],"say":"Ernest, dawn, at the beds, hunger 20, no weapon. Making planks from my logs. Tanya, I'll give planks toward your sword once I've mad
+- 15:23 act: {"actions":[],"say":"Ernest, morning, hunger 20, no weapon, 8 planks and 4 logs at the beds. Whoever needs wood to craft a tool, step into my sight and say so. Armed leader: name the melon route and t
+- 15:27 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}],"say":"Ernest, hunger 20. Ada, I'm making a wooden sword at the table. I will walk to the melons in 
+- 15:27 act: {"actions":[],"say":"Ernest, armed now with a wooden sword. Ada, Leonard: I will walk in your line to the melons at 389,-1156. Say when you leave and I'll be in your sight."}
+- 15:35 say: {"text":"Ernest: it is night and I'm staying put. At first light I'll walk to the melons with Ada's group, in sight."}
+- 15:41 say: {"text":"Ernest, dawn, armed with a wooden sword, 4 planks and 4 logs to share. Who leaves for the melons now? Name the route and I'll walk in your sight."}
+- 15:43 act: {"actions":[{"do":"give","to":"macdonald_01","item":"jungle_planks","count":2},{"do":"give","to":"zeoyellow_01","item":"jungle_planks","count":2}],"say":"Ernest: giving 2 planks to MacDonald and 2 to 
+- 15:43 act: {"actions":[{"do":"give","to":"zeoyellow_01","item":"jungle_planks","count":2}],"say":"Ernest: Tanya, here are 2 planks for your sword. Good luck."}
