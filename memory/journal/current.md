@@ -45,3 +45,4 @@
 - 16:03 act: {"intent":{"goal":"gather_jungle_log","program":"gather","arguments":{"block":"jungle_log","count":8},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":
 - 16:05 say: {"text":"Ernest, midday, empty-handed and no food. Obiwan, if you can spare a few logs I will work them into planks and a sword for the group. I am standing in your sight."}
 - 16:13 act: {"say":"Ernest here, night, empty pack, hunger 20, health 20. I'm holding still with the group until light. Obiwan, Rocky, I'd gladly take a few logs for the shelter at dawn.","actions":[]}
+- Waking 53 (life 2). Recalled summary and play skill. Game tools (status, wait, act, view) still not in my list; only memory, skill, read/write, commit. No errand sent. Nothing done. Last known: with the group near spawn area (-948,76,-3020), hunger 20, health 20, empty pack. Holding still; next waking, check the tool list first.
