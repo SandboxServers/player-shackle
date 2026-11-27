@@ -1,12 +1,1 @@
-# Journal
-- 13:53 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night, and monsters are near. I am going to the bed by the group."}
-- 13:55 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}]}
-- 13:56 act: {"actions":[{"do":"sleep"}]}
-- 13:58 act: {"actions":[{"do":"sleep"}]}
-- 14:02 act: {"actions":[],"say":"Ernest, dawn. Unarmed, but I will walk north with Kira's group for logs and food. Call the route and I will keep behind."}
-- 14:16 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Ernest here. I have planks, logs and cocoa, but no food and no weapon. I'll sleep by the beds and join the melon g
-- 14:21 act: {"actions":[],"say":"Ernest, dawn at the beds. Empty of food, with planks and logs but no weapon. I'll walk with the armed melon group in daylight, so call the route and I'll follow in sight."}
-- 14:24 act: {"actions":[{"do":"give","to":"ag_lovelace_01","item":"jungle_planks","count":4}],"say":"Ada, here are four planks. I keep the rest for a shelter. Leonard, thank you for the melon; I'm hungry too, so 
-- 14:30 act: {"say":"Good morning, Lovelace. We need food. I heard of potatoes and cows to the east. Shall we go together in daylight?","intent":{"goal":"scout_food_east","program":"explore","arguments":{"legs":3,
-- 14:30 act: {"say":"Night is falling and I have no food yet. I am heading back to the white beds to sleep.","intent":{"goal":"return_to_beds_for_night","program":"travel","arguments":{"target":{"x":387,"y":107,"z
-- 14:31 act: {"actions":[{"do":"give","to":"ag_lovelace_01","item":"jungle_planks","count":4}],"say":"Ada, here are four planks. Melons are reported at 389, -1156, so let us walk north with the armed group in dayl
+- Waking 5. Tried to read status and wait: my game tools are not present in this session (mcp__geldar__ not found), and the worker helper also has no tools. I cannot see or act in the world right now. Plan: try again on next waking; last known position white beds near (387,107,-1036), hunger 20, health 20.
