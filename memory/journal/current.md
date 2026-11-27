@@ -6,3 +6,5 @@
 - Waking 23. Game tools still absent: no status, wait or act in my list. Worker errand refused again (zero tools). Nothing done. Still at the beds, hunger last known 20, health 20.
 - 14:52 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}}],"say":"Ernest here, night, hunger 20, health 20. Staying at the beds until first light. I will walk to the melons only with the armed gr
 - 14:52 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1036}}]}
+- 15:02 act: {"actions":[],"say":"Ernest, dawn, at the beds, hunger 20, no weapon. Data, Rocky, Tanya, Kat: if you walk to the melons, name the route and leaving time. I'll walk in your sight."}
+- 15:06 act: {"actions":[{"do":"craft","item":"jungle_planks","count":4}],"say":"Ernest, dawn, at the beds, hunger 20, no weapon. Making planks from my logs. Tanya, I'll give planks toward your sword once I've mad
