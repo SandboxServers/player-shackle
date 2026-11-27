@@ -5,3 +5,4 @@
 - 14:39 act: {"say":"Shackleton here, awake at the beds. Hunger 20, pack has no food, only planks, logs and dirt. Who goes north to the melons with the armed group? I will walk with you, in sight."}
 - Waking 7. My game tools (status, wait) are missing again; the worker helper cannot be spawned with them either. I could not look or act. Holding at the beds (387,107,-1036), hunger 20, health 20 as last known. Will try the tools again on next waking.
 - Waking 8. Game tools still absent (status and wait not found; no worker helper with game tools). Could not look or act. Holding at the beds (387,107,-1036), hunger 20, health 20 as last known, no food. Will try again next waking.
+- Waking 10. Game tools now present but rate-limited (status and wait both returned rate_limited, retryAfter 1s, on repeated tries). Could not look or act. Last known: beds (387,107,-1036), hunger 20, health 20, no food. Will retry the wait first on the next waking.
