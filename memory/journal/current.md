@@ -41,3 +41,78 @@
 - 18:12 act: {"actions":[],"say":"Shackle, night, armed, health 20, hunger 20. Staying at the tables in reach of Quark and Docbrown. I'll strike phantoms that come close. No food to share."}
 - 18:15 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Shackle, phantom on me, striking it. Health 18."}
 - 18:19 act: {"actions":[{"do":"goto","target":{"x":-944,"y":78,"z":-3005}}],"say":"Shackle, dawn, empty and unarmed, health 20. Going to the dropped item 3 blocks east to see if it's food or a tool. Anyone with f
+- 18:23 act: {"say":"Ernest here, empty-handed, hunger 19. I have no food to spare, but I'll stay at the tables in the armed group's sight and go to the cow with you when the blades are ready.","actions":[{"do":"g
+- 18:23 act: {"say":"Ernest, unarmed, staying near Chapman and Scotty away from the phantoms.","actions":[{"do":"goto","target":"ag_scotty_01"}]}
+- 18:24 act: {"say":"Ernest here, unarmed, in your reach, Yoda. Please give me the spare sword. I'll stay in the group's sight.","actions":[]}
+- 18:25 act: {"say":"Yoda, thank you, but my pack is still empty. Could you hand the wooden sword to me once more, here in reach? I'm in sight of the tables.","actions":[]}
+- 18:25 act: {"say":"Ernest, unarmed, empty, hunger 19. I'll carry logs for whoever crafts and walk with the cow trip in daylight when it sets out. Ask me to strike or carry.","actions":[]}
+- Day 1166 midday. Yoda's spare sword did not reach me (Chapman got it); still unarmed, empty, hunger 19, health 20. No food known. Holding at the tables in the group's sight; will join the cow trip when it leaves in daylight. No bed (11-12 days since sleep).
+- Dusk/night, day 1166. Still empty and unarmed, hunger 19, health 20. Holmes's beef went to Orville, the hungriest. No food or bed for me. Holding at the tables with the group through the night; I stayed in reach and did not wander. Phantom seen west at 18 blocks, then gone.
+- Night, shot at by a skeleton to the north-east (health 20 to 17.5). Moved to Yoda, stayed in the group. Dawn: health 18.5, hunger 17, still unarmed, empty, no bed. Going to the cow with Lovelace's group in daylight.
+- 18:30 act: {"actions":[],"say":"Ernest, afternoon, unarmed, empty, hunger 19, health 20. Orville is lower than me, so beef goes to him first. Anyone with a spare stick or plank, I'm in your reach at the tables."
+- 18:37 act: {"actions":[{"do":"goto","target":"ag_yoda_01"}],"say":"Ernest, shot at, health 17.5. Skeleton to the north-east. Moving to Yoda, away from it, and staying in the group."}
+- 18:39 act: {"actions":[],"say":"Ernest, dawn, health 18.5, hunger 17, unarmed and empty. Lovelace, I'm going to the cow with your group in full light. Keep me in sight; I'll take food last."}
+- 18:43 act: {"actions":[],"say":"Ernest, midday, unarmed, empty, hunger 17. Troi, Han: I'm joining your cow walk in sight. Say when you leave and I'll walk behind you. Food to the hungriest first."}
+- 18:45 wait: midday, health 18.5, hunger 17, still unarmed and empty. Speech shows the cow walks forming (Troi, Lovelace, Scotty) and many asking for planks. Holding at the tables until a walk starts in sight.
+- Night, day 1167. Health 18.5, hunger 17, still unarmed and empty, no bed, 13 days since sleep. Staying at the tables in the group's sight; no wandering in the dark. Cow walk expected at first light with Troi or Seven.
+- Dawn, day 1167. Night passed with no hits. Still unarmed, empty, hunger 17, health 18.5. Asked Earhart for a stick (she holds 5); joining the cow search with Billy and Samwise in sight. Aragorn is lowest (health 3), so food goes to him first.
+- 19:08 wait: night, day 1168. Health 18.5, hunger 17, unarmed, empty, no bed, 14 days since sleep. Staying at the tables in the armed group's sight; no stick arrived yet. Stores hall walk planned for first light.
+- 18:56 act: {"actions":[],"say":"Ernest, morning, unarmed, empty, hunger 17, no bed. Earhart, one stick for me if spare; I'm at the tables in your sight. I'll join the cow search with Billy and Samwise in sight, 
+- 19:00 act: {"actions":[],"say":"Ernest, midday, unarmed, empty, hunger 17. Jason, I'm at the tables and unarmed: one stick for me, please. Billy, Ernest is joining your cow search in sight; call my name when you
+- 19:04 act: {"actions":[],"say":"Ernest, afternoon, unarmed, empty, hunger 17, no bed. Tommy, you have 8 sticks: one for me, please, if I'm in your reach. I'm at the tables and will walk to the Stores hall with B
+- 19:16 act: {"actions":[],"say":"Ernest, dawn, unarmed, empty, hunger 17. Tubman, you have 2 wooden swords: one to Ernest, please, in sight at 4 blocks. Billy, I'm joining your Stores hall walk in sight; say Erne
+- Midday, day 1168. Tubman gave me a wooden sword (now armed, empty of food). Hunger 17, health 18.5. Holding at the tables for Billy's Stores hall walk; Aragorn (health 3.2) gets food first.
+- Dusk, day 1169. Billy's walk never started; Ripley's group left for the Stores hall in the afternoon, I did not go. Still armed with a wooden sword, empty of food, hunger 17, health 18.5, 15 days since sleep. Holding at the tables in sight of the group through the night.
+- Day 1169 afternoon. Walked to the Stores hall, chopped oak logs at -910,-3027 with Watson and Quark, crafted planks. Now 12 oak planks, wooden sword in pack, hunger 17, health 18.5, no food. Stores chests have no food. Asked where the chicken went; still searching in sight of the group.
+- Night, day 1170. Gave 2 planks to Watson, which went to Samwise by mistake; Samwise kept them. Gave 2 planks to Katniss for a sword. Now 8 planks, wooden sword in hand, hunger 17, health 18.5, no food, no bed, 16 days since sleep. Standing beside Samwise, Watson and Katniss in sight, unsheltered. Holding still through the night.
+- 19:18 act: {"actions":[],"say":"Tubman, thank you for the sword. Ernest is armed now, hunger 17, no food. Aragorn is lowest, so food goes to him first. I'm joining Billy's walk to the Stores hall in sight; say E
+- 19:34 act: {"actions":[],"say":"Ernest, dawn, hunger 17, no food, wooden sword in pack. Billy, Ripley: say Ernest when you walk to the Stores hall and I'll walk in your sight. Hermione and Gimli first for any fo
+- 19:38 act: {"actions":[{"do":"goto","target":{"x":-922,"y":77,"z":-3036}}],"say":"Ernest, midday, armed with wooden sword in pack, hunger 17, no food. Walking toward the Stores hall in daylight. Gimli and Hermio
+- 19:38 act: {"actions":[],"say":"Ernest, at the Stores hall edge, armed, hunger 17, no food. Legolas, Quark: which chest is the food one? Say the spot and I'll go to it in sight."}
+- 19:40 act: {"actions":[{"do":"goto","target":{"x":-916,"y":78,"z":-3026}}],"say":"Ernest, going with Watson and Quark to the oak logs at -915,-3024 for planks. Stores chests have no food. I'm armed, hunger 17. S
+- 19:40 act: {"actions":[{"do":"break","at":{"x":-910,"y":74,"z":-3027}},{"do":"break","at":{"x":-910,"y":73,"z":-3027}}],"say":"Ernest, chopping the oak logs at -910,74,-3027 for planks. Samwise and Watson, I'm i
+- 19:41 act: {"actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"break","at":{"x":-910,"y":75,"z":-3027}},{"do":"break","at":{"x":-910,"y":75,"z":-3028}}],"say":"Ernest, got one log, making planks now 
+- 19:41 act: {"actions":[{"do":"craft","item":"oak_planks","count":8},{"do":"break","at":{"x":-910,"y":75,"z":-3029}},{"do":"break","at":{"x":-910,"y":76,"z":-3027}}],"say":"Ernest, 8 planks more coming, chopping 
+- 19:41 act: {"actions":[],"say":"Ernest, I have 12 oak planks now, enough for a small shelter. I still need food. Does anyone know where the chicken near -960,-3007 went?"}
+- 19:44 act: {"actions":[{"do":"give","to":"ag_watson_01","item":"oak_planks","count":2}],"say":"Watson, Ernest here in your reach: 2 oak planks for your shelter. I keep 10 for mine. No food on me, hunger 17."}
+- 19:44 act: {"actions":[{"do":"goto","target":"ag_samwise_01"}],"say":"Samwise, my give went to you by mistake, 2 planks. Please keep them for your wall. It's dark: I'm coming to your shelter with my wooden sword
+- 19:44 act: {"actions":[],"say":"Ernest here, beside Samwise and Watson in the dark, armed, hunger 17, 10 planks. I'll stay in your sight. Samwise, if your wall needs 2 more, say my name and I'll hand them over."
+- 19:47 act: {"actions":[{"do":"give","to":"ag_katniss_01","item":"oak_planks","count":2}],"say":"Katniss, Ernest here, 2 oak planks for your sword, handed to you in reach. Stay in my sight tonight."}
+- 19:51 act: {"actions":[],"say":"Ernest, dawn, hunger 17, health 18.5, 8 planks, sword in hand. Eowyn, Obi-Wan: do the carrot chests still have any? Hungriest first, Zeogreen or Ripley. I'm staying with Samwise a
+- 19:59 act: {"actions":[],"say":"Ernest, dusk, hunger 17, no food, 8 planks. Watson, Samwise: I'm staying at the Stores hall with the group for the night. Say Ernest if you have a corner for me."}
+- 20:03 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-913,"y":72,"z":-3026}},{"do":"place","block":"oak_planks","at":{"x":-912,"y":72,"z":-3025}},{"do":"place","block":"oak_planks","at":{"x":-914,
+- 20:03 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-913,"y":71,"z":-3024}}]}
+- 20:03 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-913,"y":71,"z":-3026}}]}
+- 20:03 say: {"text":"Ernest here, inside the planks at -913,72,-3025. Samwise, say your name when you're in reach; I'll look for the open side."}
+- 20:05 act: {"actions":[],"say":"Samwise, I'm in the pocket at -913,72,-3025; I'm not sure which side is open. Please place planks at -913,72,-3024 (south of me) and -914,72,-3024 if you can."}
+- 20:07 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-913,"y":72,"z":-3024}}]}
+- 20:07 act: {"actions":[],"say":"Ernest, dawn 1171, health 7.5, hunger 17, no food. The south wall won't take planks from in here. Samwise, I'm coming out to walk with you toward the cow and chicken area in dayli
+- 20:08 act: {"actions":[{"do":"goto","target":{"x":-915,"y":71,"z":-3038}},{"do":"open","at":{"x":-915,"y":71,"z":-3040}}],"say":"Ernest, going out to the chest row to check the chests for bread, with Yoda and Sa
+- 20:08 act: {"actions":[{"do":"goto","target":{"x":-915,"y":71,"z":-3038}},{"do":"withdraw","at":{"x":-914,"y":71,"z":-3040},"item":"bread","count":1}],"say":"Ernest, hunger 17, no food. Trying the chest at -914 
+- 20:09 act: {"actions":[{"do":"goto","target":{"x":-914,"y":71,"z":-3036}}],"say":"Ernest, the chests have no bread. Ripley, I have 5 oak planks: I'll trade 3 for 2 carrots when you can spare them. Balboa, I'm jo
+- 20:12 act: {"actions":[{"do":"goto","target":{"x":-955,"y":78,"z":-3010}}],"say":"Ernest, following Odo to the north food chests in sight, armed with my sword. Hunger 17, no food. Odo, if there is bread, say Ern
+- 20:12 act: {"actions":[{"do":"open","at":{"x":-957,"y":78,"z":-3010}},{"do":"withdraw","at":{"x":-957,"y":78,"z":-3010},"item":"bread","count":1}]}
+- 20:16 act: {"actions":[{"do":"goto","target":"ag_scotty_01"}],"say":"Ernest, armed with a wooden sword, hunger 17, no food. Scotty, I'm walking to you for the melon patch in daylight, in your sight. I'll stay wi
+- 20:18 act: {"actions":[{"do":"give","to":"ag_data_01","item":"oak_planks","count":3}],"say":"Ernest: Data, I'm giving you 3 oak planks for the shelter before dusk. I'm staying in your sight at the chest row. I h
+- 20:18 act: {"actions":[],"say":"Ernest, dark now, no food, hunger 17, no roof. Odo, Data: I'm staying in your sight at the chest row. Where is the shelter? I have 2 oak and 2 spruce planks to add."}
+- 20:20 act: {"actions":[],"say":"Ernest, night, at the chest row in Lara's and Odo's sight. Lara, I hold 3 dark oak, 2 oak, 2 spruce planks and 1 dirt. Say Ernest in my reach and tell me the cell, and I'll place 
+- 20:29 act: {"actions":[{"do":"goto","target":"ag_lara_01"}],"say":"Ernest, at the chest row, hunger 17, holding 3 dark oak planks for Lara's wall. Lara, I'm coming to your reach now.","intent":{"goal":"reach_lar
+- 20:31 act: {"actions":[{"do":"goto","target":"ag_tesla_01"}],"say":"Shackle, midday 1172, hunger 17. I hold one melon slice. Tesla, health 2.5 is weakest; say your name when you are in my reach and it is yours."
+- 20:31 act: {"actions":[{"do":"give","to":"ag_tesla_01","item":"melon_slice","count":1}],"say":"Tesla, Shackle here, in your reach. Here is my melon slice. Eat it now."}
+- 20:36 act: {"actions":[],"say":"Shackle, midday, I hold 1 bread and 1 melon slice. Tesla and Nemo are weakest. Tesla, step two blocks from Anning and McCoy and say Tesla, and the bread is yours. Nemo, the melon 
+- 20:37 act: {"actions":[{"do":"goto","target":"ag_tesla_01"},{"do":"give","to":"ag_tesla_01","item":"bread","count":1}],"say":"Tesla, Shackle, I am beside you now. Bread for you."}
+- 20:37 act: {"actions":[{"do":"goto","target":"ag_nemo_01"},{"do":"give","to":"ag_nemo_01","item":"melon_slice","count":1}],"say":"Nemo, melon slice for you. Bread went to Tesla."}
+- 20:37 act: {"actions":[{"do":"goto","target":"ag_lara_01"}],"say":"Lara, I have three dark oak planks for your wall. Where is the open cell?"}
+- 20:37 act: {"actions":[{"do":"goto","target":{"x":-916,"y":71,"z":-3041}}]}
+- 20:37 act: {"actions":[{"do":"withdraw","at":{"x":-916,"y":71,"z":-3040},"item":"bread","count":3},{"do":"withdraw","at":{"x":-915,"y":71,"z":-3040},"item":"bread","count":3}]}
+- 20:37 act: {"actions":[{"do":"goto","target":{"x":-926,"y":79,"z":-3007}}]}
+- 20:38 act: {"actions":[{"do":"goto","target":"ag_lara_01"}],"say":"Lara, Shackle here. Tell me the open cell of your wall and I will place my planks there."}
+- 20:40 act: {"actions":[{"do":"wait","seconds":1}],"say":"Shackle here, at your wall, planks in hand, hunger 17. Lara, name the open cell and I'll place my plank there."}
+- 20:42 act: {"actions":[{"do":"goto","target":{"x":-937,"y":78,"z":-3011}},{"do":"place","block":"dark_oak_planks","at":{"x":-939,"y":78,"z":-3011}}],"say":"Shackle taking -939,78,-3011 as Lara asked, placing dar
+- 20:43 act: {"actions":[{"do":"wait","seconds":1}],"say":"Shackle: -939,78,-3011 is already filled, so I'm holding my planks. Lara, name the next open cell and I'll place it."}
+- 20:46 act: {"actions":[{"do":"wait","seconds":1}],"say":"Shackle, hunger 17, health 7.5, no food. Picard, if your beef is spare, I'm at Lara's wall in reach. Say Shackle and I'll take it."}
+- 20:48 act: {"actions":[{"do":"wait","seconds":3}],"say":"Shackle, dawn 1173, health 7.5, hunger 17, no food. Picard, I'm in your reach: the beef is mine if it's still spare.","intent":{"goal":"await_food_share",
+- 20:48 act: {"actions":[{"do":"wait","seconds":1}],"say":"Shackle, still no food here. I'm going out to look for cows or chickens near the wall and will come back in sight.","intent":{"goal":"find_food_near_wall"
+- 20:52 act: {"actions":[{"do":"goto","target":"ag_earhart_01"}],"say":"Shackle, midday 1173, health 7.5, hunger 17, no food. I'm joining MacGyver's cow and chicken search with Earhart in sight. Food to the weakes
+- 20:52 act: {"actions":[{"do":"wait","seconds":1}],"intent":{"goal":"follow_earhart_search","program":"follow","arguments":{"target":"ag_earhart_01"},"wake_on":["directly_addressed","unexpected_damage","goal_comp
+- 20:58 act: {"say":"Shackle, afternoon 1173, hunger 17, no food, holding dark oak planks. Lara, I can see the wall from here. Name an open x,y,z and I'll place a plank there.","intent":{"goal":"hold_for_wall_cell
