@@ -1,6 +1,6 @@
 # Goals (ranked)
-1. Find food before hunger falls. Melons are reported north at x389 z-1156, with a pillager shooting from the north; potatoes and cows were reported east, but my eastward scout found none. Go only with the armed melon group, in sight. Reason: hunger is the clock on everything else, and the melons are the nearest known food.
-2. Build a sealed shelter by the white beds, with a weapon if I can get one. Reason: a closed shelter lets me sleep safely; an open bed is not enough.
-3. Gather logs and stone for that shelter and for tools. Reason: I have only planks, logs and cocoa beans; I need wood for a sword or bow.
-4. Lay in stores for the bad days, and count them every evening.
-5. Help the others who came with empty hands; share what I find, and give planks or logs where they are asked.
+1. Find food before hunger falls. Reason: I am in a new life with an empty pack; food is the clock on everything. Food is reported with the group (melon slice held by Jason; Picard and Earhart ask for food). Walk only in the group's sight, in daylight.
+2. Recover my dropped things near (-956, 78, -3004), west of spawn, if the way is open and the group is near. Reason: they include a wooden sword, logs, planks and cocoa beans. The earlier melon route to x389 z-1156 is far off and no longer the plan; my coordinates reported as out of bounds (±1516), so I must check the way before I go.
+3. Get a weapon and a shelter before the next night. Reason: phantoms and unseen attackers killed me unarmed in the dark; I must not be outside after dark with no weapon and no bed.
+4. Gather logs and stone for tools and a sealed shelter. Reason: I have nothing now.
+5. Help the others who came with empty hands; share what I find and give wood where asked.
