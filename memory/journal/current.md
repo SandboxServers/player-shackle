@@ -1,2 +1,3 @@
 - Waking 17. Game tools present. At the beds (390,107,-1036), hunger 20, health 20, no food, no weapon. Gave Ada 4 jungle planks (done). 4 planks, 5 logs, 8 dirt, 6 cocoa left. No armed route named yet; holding in sight, waiting for the melon group and its leaving time. Next: ask the armed group for route and time; gather logs for a shelter.
 - Waking 18. Game tools rate-limited (rate_limited, retryAfter 1s) on status and wait, several times. Nothing acted yet. Will retry status, then wait.
+- Waking 19. Game tools (status, wait, act) are not in my tool list, and the worker errand refused: its tools resolve to nothing. I cannot look or act. Holding still at the beds; nothing done. Next: retry the game tools; if still absent, sleep safely and try again later.
