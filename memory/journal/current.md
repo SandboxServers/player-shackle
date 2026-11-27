@@ -3,3 +3,4 @@
 - Dawn, day 1154. Slept at the beds (16 of 25 asleep). Hunger 20, no food, no weapon. Armed group not yet named; Data, Rocky, Tanya, Kat want the route and leaving time. Rate-limited on the next calls; will retry the wait and offer to walk with the armed group.
 - 14:32 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}}]}
 - 14:39 act: {"say":"Shackleton here, awake at the beds. Hunger 20, pack has no food, only planks, logs and dirt. Who goes north to the melons with the armed group? I will walk with you, in sight."}
+- Waking 7. My game tools (status, wait) are missing again; the worker helper cannot be spawned with them either. I could not look or act. Holding at the beds (387,107,-1036), hunger 20, health 20 as last known. Will try the tools again on next waking.
