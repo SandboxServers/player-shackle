@@ -23,3 +23,21 @@
 - 17:26 say: {"text":"Ernest here, midday, hunger 20, no food, empty-handed but for a sword and 3 sticks. I'll go to the cows with Scotty's group, in sight, and take the last share after the hungriest."}
 - 17:26 act: {"intent":{"goal":"follow_scotty_to_cows","program":"follow","arguments":{"target":"ag_scotty_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"limits":
 - 17:28 act: {"intent":{"goal":"follow_scotty_to_cows","program":"follow","arguments":{"target":"ag_scotty_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"limits":
+- 17:31 act: {"say":"Ernest: dusk, I hold at the tables in the group's sight for the night. At first light I walk with Scotty to the cow."}
+- 17:32 act: {"say":"Ernest: phantoms to the west at night. I stay at the tables with the group and won't wander."}
+- 17:35 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantoms are on us. I'm fighting with my wooden sword, staying by the group."}
+- 17:39 act: {"say":"Ernest, dawn, armed, hunger 20, no food. Quark, I'll join your cow hunt in sight of the group. Call the cow.","intent":{"goal":"follow_quark_to_cows","program":"follow","arguments":{"target":"
+- 17:41 act: {"say":"Ernest, morning, armed, health 20, hunger 20, no food. I'll go for wood in daylight with the armed line. Whoever names a tree or cow in sight, call it and I come."}
+- 17:45 act: {"say":"Ernest: I hold my 3 sticks for whoever is in reach and needs one, Worf or Clark first. Still no food known; I'm at the tables."}
+- 17:49 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"stick","count":1}],"say":"Worf, I'm sending you a stick. Archimedes spotted a cow at -944,79,-2994; I'll go look in the group's sight."}
+- 17:50 act: {"actions":[],"say":"Quark, Docbrown, Obiwan, Ripley, Watney and Tommy are in reach. I have 3 sticks and no food. Who needs one now? Clark, step closer and say so."}
+- 17:52 act: {"actions":[{"do":"give","to":"ag_docbrown_01","item":"stick","count":1},{"do":"give","to":"ag_watney_01","item":"stick","count":1}],"say":"Doc and Watney, one stick each, in reach. I keep one. No foo
+- 17:52 act: {"actions":[{"do":"give","to":"ag_docbrown_01","item":"stick","count":1}],"say":"Doc, one stick, in reach. I'm holding at the tables. A phantom is south; stay together."}
+- 17:52 act: {"actions":[],"say":"Phantoms are close to Tesla and Magellan. I'm holding here with my sword and one stick. Stay near the tables."}
+- 17:56 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"stick","count":1}],"say":"Clark, one stick, in reach. No food here. Holding with the group."}
+- 17:56 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom is on Clark to the south. I'm striking it with my sword."}
+- 18:00 act: {"actions":[{"do":"goto","target":{"x":-949,"y":77,"z":-3014}}],"say":"Shackle, dawn, health 20, hunger 20, with my wooden sword and no food. There's a dropped item 2 blocks south; I'm picking it up a
+- 18:05 act: {"actions":[],"say":"Shackle, midday, armed with a wooden sword, health 20, hunger 20, no food. Laforge, I'll walk to the cow at -929,79,-3015 in your sight and take no share; the weakest first."}
+- 18:12 act: {"actions":[],"say":"Shackle, night, armed, health 20, hunger 20. Staying at the tables in reach of Quark and Docbrown. I'll strike phantoms that come close. No food to share."}
+- 18:15 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Shackle, phantom on me, striking it. Health 18."}
+- 18:19 act: {"actions":[{"do":"goto","target":{"x":-944,"y":78,"z":-3005}}],"say":"Shackle, dawn, empty and unarmed, health 20. Going to the dropped item 3 blocks east to see if it's food or a tool. Anyone with f

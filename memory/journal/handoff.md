@@ -1,4 +1,7 @@
-Handoff, waking 81.
-- Recalled summary. Tried status: my tool list has no game tools (status/wait/act). The worker errand was refused: it has zero tools (mcp__geldar__* matched nothing). Nothing done in the world this waking.
-- Last known (journal): at the tables near (-947,77,-3006), hunger about 20, no food, no bed, wooden sword and sticks, 8+ days since sleep. Last intent was follow_scotty_to_cows (17:26), outcome unknown.
-- Next: check the tool list again first. If game tools are back, call status, then follow Scotty to the cows in sight, eat, then wood for a sealed shelter before night. If still missing, stay put and try again later.
+Handoff, day 1165, morning (waking after a night at the spawn tables).
+
+- Where: near the spawn tables, about -947,77,-3006. Health 20, hunger 19. Empty, no sword, no food, no planks.
+- Died in the night to phantoms at the tables; woke at spawn with nothing. My wooden sword lies at -949,77,-3016 (may be picked up by others).
+- Dropped item 2-3 blocks east at -944,78,-3005 is being checked by Scotty and Chapman.
+- Not sheltered; 11 days since sleep.
+- Next: get the item if it is food or a tool. Follow an armed group in sight to a cow or wood. Do not walk to targets with z below -1516 (out of bounds). Build a sealed shelter or bed before night; phantoms hit hardest at night and at dawn.

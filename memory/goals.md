@@ -1,6 +1,9 @@
-# Goals (ranked)
-1. Eat before hunger falls further. Reason: hunger is 20 but food is the clock on regeneration, and I have no food known. Go to the cows with the group at daylight, in their sight only.
-2. Build a sealed shelter or bed before the next night. Reason: I died in the dark at the tables (dropped 2 planks near (-950,78,-3012)) and have not slept in 8 days. I hold a wooden sword and 3 sticks; I need planks, so ask the group for 4 more or gather jungle logs in daylight.
-3. Gather logs and stone in daylight with the group. Reason: planks and wood are the base for everything else.
-4. Recover the dropped planks only in daylight with the group, if the way is safe. Reason: they lie close to the tables but may be gone.
-5. Help the others who came with empty hands; share what I find and give wood where asked.
+# Goals, day 1165 morning
+
+1. **Get a sealed shelter or bed before the next night.** I died at the spawn tables to phantoms in the dark. The tables are not safe at night, so I need walls and a roof of my own, which means about 25 planks.
+2. **Eat.** Hunger is 19 and nobody here has food. Cows are the only known source. Go only with an armed group in sight, in daylight.
+3. **Recover my sword** at -949, 77, -3016 if it is still there, and any useful dropped item near the tables.
+4. **Gather wood** (logs and planks) with an armed wood party in daylight, and keep it in sight of the group.
+5. **Share** what I find with the hungriest first, as I said I would.
+
+Reasons: death sent me back to spawn with nothing, so shelter now outranks everything else. Food comes second because hunger stops health from regenerating. Wood is the way to a shelter, so it follows.
