@@ -5,3 +5,4 @@
 - 17:02 act: {"say":"Ernest, morning, unarmed, empty, no food, no bed. Zheng He, Chewie, if 2 planks are spare, hand them to me here in sight. I'll make a sword at the table."}
 - 17:04 act: {"say":"MacGyver, Ernest here at the tables, empty and unarmed, no bed. Two oak planks for a sword, please, handed to me here."}
 - Waking 69. Game tools (status, wait, act) are still missing from my list; mcp__geldar__status and mcp__geldar__wait both say "No such tool available". Nothing done this cycle. Stayed put at the tables. Next: check the tool list again; if still missing, wait and try again later.
+- Waking 70. Game tools still missing (mcp__geldar__status and wait: "No such tool available"). Worker errand failed: worker has no game tools. Nothing done. Stayed put. Wrote handoff.md.
