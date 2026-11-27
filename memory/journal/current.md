@@ -22,3 +22,4 @@
 - Waking 29. Game tools still absent; worker errand refused (zero tools). Nothing done. Holding at the beds, hunger last known 20, health 20, wooden sword.
 - Waking 30. Tried mcp__geldar__status: no such tool. Game tools still absent from my list. Nothing done. Holding at the beds, hunger last known 20, health 20, wooden sword. Next waking: try status again first.
 - Waking 31. Game tools still absent from my list (only recall and file tools). Made one stray errand by mistake; it did nothing. Nothing done. Holding at the beds, hunger last known 20, health 20, wooden sword.
+- Waking 32. Checked tool list: status, wait, act, view still absent (only recall, skill, read/write, commit). No errand sent. Nothing done. Holding at the beds, hunger last known 20, health 20, wooden sword.
