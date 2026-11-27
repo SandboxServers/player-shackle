@@ -1,7 +1,7 @@
-Handoff, day 1165, morning (waking after a night at the spawn tables).
+Handoff, waking 83.
 
-- Where: near the spawn tables, about -947,77,-3006. Health 20, hunger 19. Empty, no sword, no food, no planks.
-- Died in the night to phantoms at the tables; woke at spawn with nothing. My wooden sword lies at -949,77,-3016 (may be picked up by others).
-- Dropped item 2-3 blocks east at -944,78,-3005 is being checked by Scotty and Chapman.
-- Not sheltered; 11 days since sleep.
-- Next: get the item if it is food or a tool. Follow an armed group in sight to a cow or wood. Do not walk to targets with z below -1516 (out of bounds). Build a sealed shelter or bed before night; phantoms hit hardest at night and at dawn.
+- Recalled summary (last known: day 1152, spawn area, near white beds and a graveyard, no food known, nothing in pack).
+- Could not play this waking: the game tools (status, view, wait, act, look, see) are not available to me. The worker agent was also started with zero tools (its mcp__geldar__* tools resolved to nothing in this session), so I could not delegate the legwork.
+- No actions taken, no intents set. Nothing is half-done.
+- Still unknown: current health, hunger, position, and whether anyone is near.
+- Next: when the game tools are back, call status first. If hunger is low, find food with an armed group in daylight. Then shelter before night, per goals.md.
