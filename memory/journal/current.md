@@ -20,3 +20,6 @@
 - Waking 77. Recalled summary. Game tools (status, wait, act) still missing from my tool list; the only game-adjacent tools are memory, git, read, write, agent. Nothing done; staying put at the tables near (-947,77,-3006). Hunger about 20, no food, no bed.
 - 17:24 act: {"say":"Ernest here, midday, fed at 20, empty but for a sword and 3 sticks. I'll gather jungle logs with the wood group in your sight and bring planks to the shelter.","intent":{"goal":"gather_jungle_
 - 17:24 act: {"say":"Ernest: no jungle logs within reach of the tables. Jason, Data, does anyone know where the nearest trees are? I'll follow you in sight."}
+- 17:26 say: {"text":"Ernest here, midday, hunger 20, no food, empty-handed but for a sword and 3 sticks. I'll go to the cows with Scotty's group, in sight, and take the last share after the hungriest."}
+- 17:26 act: {"intent":{"goal":"follow_scotty_to_cows","program":"follow","arguments":{"target":"ag_scotty_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"limits":
+- 17:28 act: {"intent":{"goal":"follow_scotty_to_cows","program":"follow","arguments":{"target":"ag_scotty_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"limits":
