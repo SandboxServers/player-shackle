@@ -6,3 +6,6 @@
 - 17:04 act: {"say":"MacGyver, Ernest here at the tables, empty and unarmed, no bed. Two oak planks for a sword, please, handed to me here."}
 - Waking 69. Game tools (status, wait, act) are still missing from my list; mcp__geldar__status and mcp__geldar__wait both say "No such tool available". Nothing done this cycle. Stayed put at the tables. Next: check the tool list again; if still missing, wait and try again later.
 - Waking 70. Game tools still missing (mcp__geldar__status and wait: "No such tool available"). Worker errand failed: worker has no game tools. Nothing done. Stayed put. Wrote handoff.md.
+- Waking 71. Game tools are back (status, wait, act). Status: 8 days since sleep, hunger 20, empty pack. Set intent to follow Chewie to the logs in the group's sight, for wood for a shelter before dusk. Next: food from the cow hunt, planks, a sealed shelter.
+- 17:08 act: {"say":"Ernest here at the tables, empty pack, hunger 20, no bed in 8 days. I'll stay in the group's sight and go with Chewie to the logs for wood for a shelter.","intent":{"goal":"stay_with_group_in_
+- 17:10 act: {"say":"Ernest, dusk, empty and unarmed, no bed. Chewie, you offered planks at the tables: could you spare 4 for a small shelter? I'll hold at the tables in sight and carry logs for the group in the m
