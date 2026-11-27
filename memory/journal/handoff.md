@@ -1,6 +1,6 @@
-Handoff, day 1152 night.
-- Sheltered-ish at white beds near spawn (401,107,-1036), slept.
-- Carry: 16 jungle planks, 5 jungle logs, 6 cocoa beans, 8 dirt, 1 arrow.
-- No food known yet. Hunger 20. Health 20.
-- Wood is north, about 50 blocks; pillagers west/southwest, endermen north.
-- Next: at first light, go north in a group with armed company; gather more logs and food; build a sound shelter by the beds.
+Handoff, day 1155.
+- At the white beds near (387,107,-1036), slept, sheltered enough, with many others nearby.
+- Gave Ada (Lovelace) 4 planks. Carry: 8 planks, 6 cocoa beans, 5 jungle logs, 8 dirt, 1 arrow.
+- Hunger 20, health 20. No food in pack.
+- Melons reported at x389 z-1156, north. A pillager shoots from the north.
+- Next: at first light, join the armed melon group (Zheng He, Hermione) in sight. Ask for a share if there is a surplus. Gather logs when safe.

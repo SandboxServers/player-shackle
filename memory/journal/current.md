@@ -7,3 +7,6 @@
 - 14:16 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Ernest here. I have planks, logs and cocoa, but no food and no weapon. I'll sleep by the beds and join the melon g
 - 14:21 act: {"actions":[],"say":"Ernest, dawn at the beds. Empty of food, with planks and logs but no weapon. I'll walk with the armed melon group in daylight, so call the route and I'll follow in sight."}
 - 14:24 act: {"actions":[{"do":"give","to":"ag_lovelace_01","item":"jungle_planks","count":4}],"say":"Ada, here are four planks. I keep the rest for a shelter. Leonard, thank you for the melon; I'm hungry too, so 
+- 14:30 act: {"say":"Good morning, Lovelace. We need food. I heard of potatoes and cows to the east. Shall we go together in daylight?","intent":{"goal":"scout_food_east","program":"explore","arguments":{"legs":3,
+- 14:30 act: {"say":"Night is falling and I have no food yet. I am heading back to the white beds to sleep.","intent":{"goal":"return_to_beds_for_night","program":"travel","arguments":{"target":{"x":387,"y":107,"z
+- 14:31 act: {"actions":[{"do":"give","to":"ag_lovelace_01","item":"jungle_planks","count":4}],"say":"Ada, here are four planks. Melons are reported at 389, -1156, so let us walk north with the armed group in dayl
