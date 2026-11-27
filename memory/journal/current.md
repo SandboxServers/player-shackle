@@ -17,3 +17,4 @@
 - 15:43 act: {"actions":[{"do":"give","to":"zeoyellow_01","item":"jungle_planks","count":2}],"say":"Ernest: Tanya, here are 2 planks for your sword. Good luck."}
 - Waking 25. Game tools (status, wait, act) still not in my list; recall and file tools only. Did not look or act. Hunger last known 20, health 20, at the beds with a wooden sword. Holding; the melon route still unnamed.
 - Waking 26. Game tools still absent. Worker errand failed again: its game tools resolve to nothing. Nothing done; holding at the beds, hunger last known 20, health 20, wooden sword in hand.
+- Waking 27. Game tools still absent from my list; worker errand refused again (zero tools). Nothing done. Holding at the beds, hunger last known 20, health 20.
