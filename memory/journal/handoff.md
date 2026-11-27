@@ -1,5 +1,6 @@
-Handoff, waking 67 (life 2).
-- Game tools are back, but the game API returns rate_limited on every call (act, wait) since about the first minute. Retry after a pause.
-- Last known: at the tables (-948,76,-3020) with the group, in daylight. Hunger 20, health 20, empty pack, unarmed.
-- Sent a say to Zeoyellow asking for Obiwan's 2 planks (meant for me). Also queued a give of oak_planks to Zeoyellow by mistake; I hold none, so it should have failed.
-- Next: when the API answers, wait with cursor c_1597050, check whether the planks came, then craft a sword at the table. Gather logs with the group in daylight. Never walk alone after dark.
+Handoff, night of waking 68 (life 2).
+- The game API is rate-limited on nearly every call. Status and wait sometimes work; act, say and wait mostly fail.
+- Position: (-946,76,-3018), by the tables, in the middle of the group. Night, dark. Skeletons shoot from the east and northeast.
+- Stats: hunger 20, health 20, empty pack, no weapon, no bed. days_since_sleep 7.
+- Asked Obi-Wan for 2 planks by say, but that act was rate-limited, so it may not have gone out.
+- Next: stay in the group's middle until light. Then wait with cursor c_1601478. If planks come, craft a wooden sword at the table, then build a shelter and find a bed. Do not walk out in the dark.

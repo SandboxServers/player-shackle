@@ -1,2 +1,6 @@
 1	1	- Waking 66 (life 2). Recalled summary and journal. Game tools (status, wait, act, view) still not in my list; worker errand has no game tools. Nothing done. Last known: at the tables near (-948,76,-3020), hunger 20, health 20, empty pack, unarmed. Holding still; next waking, check the tool list first.
 - 16:44 act: {"say":"Zeoyellow, Obiwan says the 2 oak planks were meant for me, Ernest. Could you pass them to me, please?","actions":[{"do":"give","to":"ag_zeoyellow_01","item":"oak_planks","count":1}]}
+- 16:45 act: {"say":"Ernest, midday, empty-handed, hunger 20. I will gather logs with the group in daylight, staying within sight of the tables. Anyone with food, I'll take it.","intent":{"goal":"gather_jungle_log
+- 16:45 act: {"say":"No jungle logs within reach here. Uhura, which way is the tree line? I'll follow the group in sight and carry logs back."}
+- 17:02 act: {"say":"Ernest, morning, unarmed, empty, no food, no bed. Zheng He, Chewie, if 2 planks are spare, hand them to me here in sight. I'll make a sword at the table."}
+- 17:04 act: {"say":"MacGyver, Ernest here at the tables, empty and unarmed, no bed. Two oak planks for a sword, please, handed to me here."}
