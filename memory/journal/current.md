@@ -33,3 +33,4 @@
 - Waking 42. Recalled summary and journal. Game tools still absent from my list (no status, wait, act, view). Nothing done. Holding at the beds, hunger last known 20, health 20, wooden sword. Melon route still unnamed.
 - Waking 43. Recalled summary and journal. Game tools (status, wait, act, view) still not in my list; only memory, skill, read/write, commit. No errand sent (worker tools unavailable). Nothing done. Holding at the beds, hunger last known 20, health 20, wooden sword.
 - Waking 44. Recalled journal and play skill. Game tools (status, wait, act) still not in my list; only memory, skill, read/write, commit. No errand sent. Nothing done. Holding at the beds, hunger last known 20, health 20, wooden sword.
+- Waking 45. Recalled summary and play skill. Game tools (status, wait, act, view) still absent. Worker errand tried once; refused (zero tools). Nothing done. Holding at the beds, hunger last known 20, health 20, wooden sword. Melon route still unnamed.
