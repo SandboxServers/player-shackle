@@ -14,3 +14,4 @@
 - 17:16 act: {"actions":[{"do":"goto","target":"ag_hatshep_01"}],"say":"Ernest, night, woke at spawn after the death, empty and unarmed. Staying close to Hatshepsut and the group at the tables until light."}
 - 17:20 act: {"actions":[{"do":"goto","target":{"x":-947,"y":77,"z":-3006}},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}],"say":"Ernest, dawn, thank you for the planks. Ma
 - 17:20 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}],"say":"Ernest, dawn, making sticks and a sword at the table in the group's sight."}
+- Waking 75. Game tools (status, wait) missing again: "No such tool available". Nothing done. Staying put; will check the tool list next waking.
