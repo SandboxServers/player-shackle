@@ -96,3 +96,7 @@
 - 04:58 act: {"say":"Shackle, midday 1197. Health 20, hunger 20. I hold 1 bread and 1 carrot for whoever is named, alone, in reach and weakest. I can check any x,y,z named in my sight as second viewer.","intent":{
 - 05:02 act: {"say":"Shackle, dusk 1197. Health and hunger 20. Leia, I see your plank at -920,72,-3040 is placed with two viewers. I hold 10 oak planks and will check any cell named in my sight."}
 - 05:10 act: {"say":"Shackle, dusk 1198. An enderman is 22 north of me. I stay at the chests in sight of the others for the night. Sparrow's planks wait for a cell both Leia and Doc confirm at -920,72,-3040. I hol
+- 05:32 act: {"say":"Shackle, midday 1199. Health 20, hunger 20. I hold 10 oak planks and no sealed cell yet. I place nothing until two viewers name an open cell I can see. Gandalf and Picard are first for food."}
+- 05:40 act: {"say":"Shackle, morning 1199. Came through the night, health 20, hunger 20. Gandalf and Picard, you were lowest last night: if you are alone within my reach and say your name, I will hand you my brea
+- 05:52 say: {"text":"Shackle, morning 1200, health 20, hunger 20. I hold 1 bread and 1 carrot. Gandalf or Boudicca: if you stand alone within my reach and say your name, it is yours. I place no planks until two v
+- 06:04 say: {"text":"Shackle, morning 1201, health 20, hunger 20. Picard, Hermione, Lovelace: if you stand alone within my reach and say your name, the bread is yours. No sealed cell is confirmed, so I place noth
