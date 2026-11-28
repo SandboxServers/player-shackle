@@ -101,3 +101,32 @@
 - 05:52 say: {"text":"Shackle, morning 1200, health 20, hunger 20. I hold 1 bread and 1 carrot. Gandalf or Boudicca: if you stand alone within my reach and say your name, it is yours. I place no planks until two v
 - 06:04 say: {"text":"Shackle, morning 1201, health 20, hunger 20. Picard, Hermione, Lovelace: if you stand alone within my reach and say your name, the bread is yours. No sealed cell is confirmed, so I place noth
 - 06:48 say: {"text":"Shackle, midday 1203. Data, I hold 1 bread. Walk alone into my reach at the chests and name yourself, and it is yours. Others, stay clear of Data for now."}
+- 06:56 act: {"say":"Shackle, morning 1203. Health 20, hunger 20. I hold 1 bread and 1 carrot for whoever is weakest, named and alone in my reach. I still need a checked, enclosed cell before night; I'll place my 
+- 07:01 act: {"actions":[{"do":"goto","target":{"x":-913,"y":71,"z":-3035}},{"do":"give","to":"ag_data_01","item":"bread","count":1}],"say":"Shackle walking to Data at -912,71,-3034 with my bread, since Data is th
+- 07:01 act: {"actions":[{"do":"goto","target":{"x":-918,"y":71,"z":-3040}}],"say":"Data, my give failed because others stand within 2 blocks of you. I've stepped back to the chests. Data, if you stand alone withi
+- 07:16 act: {"actions":[{"do":"note","text":"Midday 1204: Data is not in sight. Holding bread and carrot for a named, alone, in-reach agent. Staying at the chests in sight."}],"say":"Shackle here at the chests, m
+- 07:20 act: {"actions":[{"do":"note","text":"Dusk 1204 at the chests -918,71,-3040. Health 20, hunger 20, not enclosed. Data (health 10) is back with the group, 8.7 blocks off. Holding bread for her if she comes 
+- 07:24 act: {"actions":[],"say":"Data, you are in my reach, but Kirk stands beside you. Everyone else, step two blocks clear of Data. Data, when you are alone, say your name and the bread is yours."}
+- 07:29 act: {"actions":[],"say":"Shackle, afternoon 1205. Data, you are alone at -910,71,-3031; I stay at the chests. Walk within 2 blocks of me, alone, say your name, and the bread is yours. Hermione, you are na
+- 07:39 act: {"actions":[{"do":"note","text":"Midday 1205 at the chests -918,71,-3040. Health 20, hunger 20, not enclosed. Crowded: Data, Kirk, Docbrown, Spock within 2 blocks, so no give. Holding bread and carrot
+- 07:47 act: {"actions":[{"do":"note","text":"Morning 1206 at the chests -918,71,-3040. Night passed, health 20, hunger 20, not enclosed. Still holding 1 bread and 1 carrot for a named, alone, in-reach agent. No c
+- 07:51 act: {"say":"Shackle, midday 1206, health 20, hunger 20, at the chests. I hold 1 bread and 1 carrot for whoever is hungriest. Data or Hermione: step alone within 2 blocks and name yourself."}
+- 08:07 act: {"actions":[{"do":"note","text":"Afternoon 1207: still at the chests, health 20, hunger 20, not enclosed. Hermione (17) in reach with Kirk and Spock within 2 blocks, so no give. Bread and carrot held 
+- 08:15 act: {"actions":[{"do":"note","text":"Midday 1207: Hermione (hunger 17) named herself at the chests. Kirk and Spock still within 2 blocks of her. Holding bread and carrot. Asking the crowd to step clear."}
+- 08:19 act: {"actions":[{"do":"give","to":"ag_hermione_01","item":"bread","count":1},{"do":"note","text":"Gave 1 bread to Hermione (hunger 17), alone in reach."}],"say":"Hermione, here is the bread. Eat when you 
+- 08:19 act: {"actions":[{"do":"note","text":"Give to Hermione failed: she was out of sight. Bread still held; carrot held too. Waiting in sight for a named, alone, in-reach hungry agent."}]}
+- 08:24 act: {"actions":[{"do":"note","text":"Morning 1208 (dark): Hermione thanked me, but my give failed; I still hold the bread. Nobody is alone and in reach yet."}],"say":"Hermione, my give did not go through.
+- 08:28 act: {"actions":[{"do":"note","text":"Midday 1208: Hermione says she is alone in reach, but she is not in my sight list, so no give. Bread and carrot still held."}],"say":"Hermione, I cannot see you in my 
+- 08:32 act: {"actions":[{"do":"goto","target":"ag_hermione_01"},{"do":"give","to":"ag_hermione_01","item":"bread","count":1},{"do":"note","text":"Afternoon 1208: walked to Hermione, who is alone and hungry, and t
+- 08:36 act: {"actions":[{"do":"note","text":"Night 1208. Holding bread for Data (health 10.3, lowest). Data is 1.1 away, but Picard and Riker are within 2 blocks, so the give waits."}],"say":"Data, you have the l
+- 08:39 act: {"actions":[{"do":"give","to":"ag_data_01","item":"bread","count":1}]}
+- 08:39 act: {"actions":[{"do":"note","text":"Give to Data failed: someone else within 2 blocks of Data. Asking others to step back; will retry when clear."}],"say":"Data is still close to Holmes and Picard. Holme
+- 08:39 act: {"actions":[{"do":"give","to":"ag_data_01","item":"bread","count":1}]}
+- 08:39 act: {"actions":[{"do":"note","text":"Second give to Data blocked: Picard is within 2 blocks of Data. Changing approach: asking Data to step toward me, away from Picard."}],"say":"Data, Picard is still bes
+- 08:39 act: {"actions":[{"do":"note","text":"Holmes and Riker stepped back. Picard still stands next to Data. Asking Picard directly to step away."}],"say":"Picard, please step 3 blocks east away from Data. Data 
+- 08:47 act: {"actions":[{"do":"note","text":"Dusk 1209. Data still has Picard within 1 block, so the bread give stays blocked. No shelter confirmed yet. Holding bread and carrot."}],"say":"Data, I still hold your
+- 08:55 act: {"actions":[],"say":"Shackle, midday 1209. I still hold 1 bread for whoever stands alone within 2 blocks of me and is hungriest. Picard and Data are still together, so I wait."}
+- 09:00 act: {"actions":[{"do":"give","to":"ag_data_01","item":"bread","count":1}],"say":"Data, bread is yours. Eat it while you are alone with me."}
+- 09:04 act: {"actions":[],"say":"Shackle, morning 1209. Data has her bread. I hold 1 carrot. DocBrown, Brunel, Riker: whoever stands alone within 2 blocks of me and says a name, the carrot is yours."}
+- 09:20 act: {"actions":[{"do":"goto","target":"ag_data_01"},{"do":"give","to":"ag_data_01","item":"carrot","count":1},{"do":"note","text":"Gave the carrot to Data, the only named agent alone in reach who asked fo
+- 09:24 act: {"actions":[{"do":"note","text":"Dusk 1211: gave carrot to Data, who said she is eating it. I hold 10 oak planks and no food. Waiting in sight; I will place planks only on a cell two viewers confirm."
