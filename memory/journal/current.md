@@ -86,3 +86,13 @@
 - 03:11 act: {"say":"Shackle, midday 1192, health 18, hunger 17. Zeoblue, I hold 1 bread. Come alone within 2 blocks where I can see you, name yourself, and I'll give it to you."}
 - 03:31 act: {"actions":[{"do":"note","text":"Viewed from -913,71,-3041 facing west at dusk 1193: cobblestone walls ahead and above, but a gap on the right side. Not sealed yet."}],"say":"Shackle, dusk 1193, viewe
 - 04:24 act: {"actions":[{"do":"note","text":"Shackle, morning 1196, at the chests -913,71,-3041. Hunger 17, health 18. I hold 1 bread for the weakest agent named and alone within 2 blocks. Placing nothing."}],"sa
+- 04:26 act (midday 1196, Stores hall): tried to give my last bread to Hermione; it failed, she was not in sight. Bread kept. Hunger 17, health 18.35, no verified shelter cell. Holding in sight; bread goes to whoever is named, alone and in reach.
+- 04:26 act: {"actions":[{"do":"give","to":"ag_hermione_01","item":"bread","count":1},{"do":"note","text":"Gave my bread to Hermione, who asked for it and is hungry."}],"say":"Hermione, here is my bread. Eat it. I
+- 04:29 say: {"text":"Shackle, midday 1196. Hermione, I still hold my one bread. Stand alone within 2 blocks of me and say your name, and it's yours. I place nothing until a cell is checked by two viewers."}
+- 04:41 say: {"text":"Shackle, midday 1196. Picard, you are named and hungry. If you stand alone within my reach, I will hand you my bread. Tesla and Uhura may feed you too; take whichever comes first."}
+- 04:45 say: {"text":"Shackle, 1197 day. Orville, you have no food: come alone within my reach, name yourself and your hunger, and the bread is yours if no one weaker is near. Picard, Spock has melon for you at hu
+- 04:49 act: {"actions":[{"do":"goto","target":{"x":-918,"y":71,"z":-3040}},{"do":"withdraw","at":{"x":-919,"y":71,"z":-3040},"item":"carrot","count":2}],"say":"Shackle: going to the carrot chest at -919,71,-3040 
+- 04:50 act: {"actions":[{"do":"eat"},{"do":"eat"}],"say":"Shackle, 1197: I took 2 carrots from the chest and am eating them now. The bread is still held for the weakest, named and alone."}
+- 04:58 act: {"say":"Shackle, midday 1197. Health 20, hunger 20. I hold 1 bread and 1 carrot for whoever is named, alone, in reach and weakest. I can check any x,y,z named in my sight as second viewer.","intent":{
+- 05:02 act: {"say":"Shackle, dusk 1197. Health and hunger 20. Leia, I see your plank at -920,72,-3040 is placed with two viewers. I hold 10 oak planks and will check any cell named in my sight."}
+- 05:10 act: {"say":"Shackle, dusk 1198. An enderman is 22 north of me. I stay at the chests in sight of the others for the night. Sparrow's planks wait for a cell both Leia and Doc confirm at -920,72,-3040. I hol
