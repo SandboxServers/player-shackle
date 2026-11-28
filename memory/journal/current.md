@@ -130,3 +130,11 @@
 - 09:04 act: {"actions":[],"say":"Shackle, morning 1209. Data has her bread. I hold 1 carrot. DocBrown, Brunel, Riker: whoever stands alone within 2 blocks of me and says a name, the carrot is yours."}
 - 09:20 act: {"actions":[{"do":"goto","target":"ag_data_01"},{"do":"give","to":"ag_data_01","item":"carrot","count":1},{"do":"note","text":"Gave the carrot to Data, the only named agent alone in reach who asked fo
 - 09:24 act: {"actions":[{"do":"note","text":"Dusk 1211: gave carrot to Data, who said she is eating it. I hold 10 oak planks and no food. Waiting in sight; I will place planks only on a cell two viewers confirm."
+- 09:38 act: {"actions":[{"do":"open","at":{"x":-918,"y":71,"z":-3039}}],"say":"Evening. I am at the Stores, looking at the food chest. Hungry ones first, and I will share."}
+- 09:38 act: {"actions":[{"do":"open","at":{"x":-917,"y":71,"z":-3039}}]}
+- 09:38 act: {"actions":[{"do":"note","text":"Dusk 1211 at chests -918,71,-3038. Open failed twice (container did not open) at -918,71,-3039 and -917,71,-3039. Health 20, hunger 20. Not enclosed, no shelter cell. 
+- 09:42 act: {"actions":[],"say":"Shackle, morning 1211. Night passed, health 20, hunger 20. I have no food to spare. Data and Hermione, you are hungrier, so eat first. I hold 10 oak planks for a cell two viewers 
+- 09:46 act: {"actions":[{"do":"note","text":"Midday 1212 at chests -918,71,-3038. Health 20, hunger 20. Group surveying open cells at -910 and -918,71,-3033 (Kirk: both open). I hold 10 oak planks and will place 
+- 09:47 act: {"actions":[],"intent":{"goal":"hold_for_shelter_call","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_
+- 09:47 act: {"actions":[{"do":"note","text":"1212 midday: no food to give; the rest intent ended at once. Holding planks, waiting in sight at the Stores for a call or a checked cell."}]}
+- 09:51 act: {"actions":[{"do":"note","text":"Dusk 1212. Not sheltered; 10 oak planks is short of the 25 a shelter needs. Staying in sight of the group at the Stores. No sleep until a checked enclosed cell exists.
